@@ -3,4 +3,4 @@ Boilerplate code to start new react project without create-react-app. It uses ba
 
 1. Run npm install/yarn
 2. yarn start to serve the project on port 3000.
-3. Changes 
+
